@@ -10,7 +10,7 @@ const CHAMPIONSHIP_LOGOS = {
   'fia wec': 'assets/img/series/wec.png', 'wec': 'assets/img/series/wec.png', 'wrc': 'assets/img/series/wrc.webp',
   '24h series': 'assets/img/series/24h.webp', 'worldsbk': 'assets/img/series/wsbk.svg', 'wsbk': 'assets/img/series/wsbk.svg',
   'worldssp': 'assets/img/series/wssp.svg', 'wssp': 'assets/img/series/wssp.svg',
-  'nascar cup series': 'assets/img/series/nascar.svg', 'nascar': 'assets/img/series/nascar.svg',
+  'nascar cup': 'assets/img/series/nascar.svg', 'nascar': 'assets/img/series/nascar.svg',
   'indycar': 'assets/img/series/indycar.svg', 'dakar rally': 'assets/img/series/dakar.svg', 'dakar': 'assets/img/series/dakar.svg'
 };
 
