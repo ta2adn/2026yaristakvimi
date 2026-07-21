@@ -1,1767 +1,1658 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Tolga Aydin//2026 Motorsport Calendar//TR
+PRODID:-//ta2adn//2026 Motorsport Calendar//TR
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Formula 1 2026
 METHOD:PUBLISH
+X-WR-TIMEZONE:UTC
+X-WR-CALNAME:Formula 1 2026
 BEGIN:VEVENT
-UID:formula1-1-0-fp1@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260306
-DTEND;VALUE=DATE:20260307
-SUMMARY:Practice 1
-DESCRIPTION:Australian Grand Prix - Practice 1 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Albert Park Circuit, Australia
-STATUS:TENTATIVE
+UID:f1-2026-001-56e85a1920@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260306T013000Z
+DTEND:20260306T023000Z
+SUMMARY:Australian Grand Prix - Practice 1
+LOCATION:Albert Park Grand Prix Circuit\, Australia
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 1
 X-EVENT-NAME:Australian Grand Prix
-X-COUNTRY:AU
-X-CIRCUIT:Albert Park Circuit
+X-COUNTRY:Australia
+X-CIRCUIT:Albert Park Grand Prix Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-1-0-fp2@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260306
-DTEND;VALUE=DATE:20260307
-SUMMARY:Practice 2
-DESCRIPTION:Australian Grand Prix - Practice 2 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Albert Park Circuit, Australia
-STATUS:TENTATIVE
+UID:f1-2026-002-ce0ec18f24@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260306T050000Z
+DTEND:20260306T060000Z
+SUMMARY:Australian Grand Prix - Practice 2
+LOCATION:Albert Park Grand Prix Circuit\, Australia
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 2
 X-EVENT-NAME:Australian Grand Prix
-X-COUNTRY:AU
-X-CIRCUIT:Albert Park Circuit
+X-COUNTRY:Australia
+X-CIRCUIT:Albert Park Grand Prix Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-1-0-fp3@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260307
-DTEND;VALUE=DATE:20260308
-SUMMARY:Practice 3
-DESCRIPTION:Australian Grand Prix - Practice 3 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Albert Park Circuit, Australia
-STATUS:TENTATIVE
+UID:f1-2026-003-3b803073b7@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260307T013000Z
+DTEND:20260307T023000Z
+SUMMARY:Australian Grand Prix - Practice 3
+LOCATION:Albert Park Grand Prix Circuit\, Australia
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 3
 X-EVENT-NAME:Australian Grand Prix
-X-COUNTRY:AU
-X-CIRCUIT:Albert Park Circuit
+X-COUNTRY:Australia
+X-CIRCUIT:Albert Park Grand Prix Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-1-0-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260307
-DTEND;VALUE=DATE:20260308
-SUMMARY:Qualifying
-DESCRIPTION:Australian Grand Prix - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Albert Park Circuit, Australia
-STATUS:TENTATIVE
+UID:f1-2026-004-b8d6c881eb@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260307T050000Z
+DTEND:20260307T060000Z
+SUMMARY:Australian Grand Prix - Qualifying
+LOCATION:Albert Park Grand Prix Circuit\, Australia
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Qualifying
 X-EVENT-NAME:Australian Grand Prix
-X-COUNTRY:AU
-X-CIRCUIT:Albert Park Circuit
+X-COUNTRY:Australia
+X-CIRCUIT:Albert Park Grand Prix Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-1-0-race@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260308
-DTEND;VALUE=DATE:20260309
-SUMMARY:Race
-DESCRIPTION:Australian Grand Prix - Race - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Albert Park Circuit, Australia
-STATUS:TENTATIVE
+UID:f1-2026-005-bb0e6e0a53@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260308T040000Z
+DTEND:20260308T060000Z
+SUMMARY:Australian Grand Prix - Race
+LOCATION:Albert Park Grand Prix Circuit\, Australia
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Race
 X-EVENT-NAME:Australian Grand Prix
-X-COUNTRY:AU
-X-CIRCUIT:Albert Park Circuit
+X-COUNTRY:Australia
+X-CIRCUIT:Albert Park Grand Prix Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-2-0-fp1@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260314
-SUMMARY:Practice 1
-DESCRIPTION:Chinese Grand Prix - Practice 1 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Shanghai International Circuit, China
-STATUS:TENTATIVE
+UID:f1-2026-006-4fbfbc8c62@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260313T033000Z
+DTEND:20260313T043000Z
+SUMMARY:Chinese Grand Prix - Practice 1
+LOCATION:Shanghai International Circuit\, China
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 1
 X-EVENT-NAME:Chinese Grand Prix
-X-COUNTRY:CN
+X-COUNTRY:China
 X-CIRCUIT:Shanghai International Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-2-0-sprint-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260314
-SUMMARY:Sprint Qualifying
-DESCRIPTION:Chinese Grand Prix - Sprint Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Shanghai International Circuit, China
-STATUS:TENTATIVE
+UID:f1-2026-007-ace3b59fac@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260313T073000Z
+DTEND:20260313T081400Z
+SUMMARY:Chinese Grand Prix - Sprint Qualifying
+LOCATION:Shanghai International Circuit\, China
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Sprint Qualifying
 X-EVENT-NAME:Chinese Grand Prix
-X-COUNTRY:CN
+X-COUNTRY:China
 X-CIRCUIT:Shanghai International Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-2-0-sprint@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260314
-DTEND;VALUE=DATE:20260315
-SUMMARY:Sprint
-DESCRIPTION:Chinese Grand Prix - Sprint - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Shanghai International Circuit, China
-STATUS:TENTATIVE
+UID:f1-2026-008-ae95f9444f@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260314T030000Z
+DTEND:20260314T040000Z
+SUMMARY:Chinese Grand Prix - Sprint
+LOCATION:Shanghai International Circuit\, China
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Sprint
 X-EVENT-NAME:Chinese Grand Prix
-X-COUNTRY:CN
+X-COUNTRY:China
 X-CIRCUIT:Shanghai International Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-2-0-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260314
-DTEND;VALUE=DATE:20260315
-SUMMARY:Qualifying
-DESCRIPTION:Chinese Grand Prix - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Shanghai International Circuit, China
-STATUS:TENTATIVE
+UID:f1-2026-009-0c6e8006e8@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260314T070000Z
+DTEND:20260314T080000Z
+SUMMARY:Chinese Grand Prix - Qualifying
+LOCATION:Shanghai International Circuit\, China
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Qualifying
 X-EVENT-NAME:Chinese Grand Prix
-X-COUNTRY:CN
+X-COUNTRY:China
 X-CIRCUIT:Shanghai International Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-2-0-race@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260315
-DTEND;VALUE=DATE:20260316
-SUMMARY:Race
-DESCRIPTION:Chinese Grand Prix - Race - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Shanghai International Circuit, China
-STATUS:TENTATIVE
+UID:f1-2026-010-ea2ff10b7f@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260315T070000Z
+DTEND:20260315T090000Z
+SUMMARY:Chinese Grand Prix - Race
+LOCATION:Shanghai International Circuit\, China
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Race
 X-EVENT-NAME:Chinese Grand Prix
-X-COUNTRY:CN
+X-COUNTRY:China
 X-CIRCUIT:Shanghai International Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-3-0-fp1@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260327
-DTEND;VALUE=DATE:20260328
-SUMMARY:Practice 1
-DESCRIPTION:Japanese Grand Prix - Practice 1 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Suzuka Circuit, Japan
-STATUS:TENTATIVE
+UID:f1-2026-011-a51838cfe5@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260327T023000Z
+DTEND:20260327T033000Z
+SUMMARY:Japanese Grand Prix - Practice 1
+LOCATION:Suzuka International Racing Course\, Japan
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 1
 X-EVENT-NAME:Japanese Grand Prix
-X-COUNTRY:JP
-X-CIRCUIT:Suzuka Circuit
+X-COUNTRY:Japan
+X-CIRCUIT:Suzuka International Racing Course
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-3-0-fp2@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260327
-DTEND;VALUE=DATE:20260328
-SUMMARY:Practice 2
-DESCRIPTION:Japanese Grand Prix - Practice 2 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Suzuka Circuit, Japan
-STATUS:TENTATIVE
+UID:f1-2026-012-99cea9bbd5@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260327T060000Z
+DTEND:20260327T070000Z
+SUMMARY:Japanese Grand Prix - Practice 2
+LOCATION:Suzuka International Racing Course\, Japan
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 2
 X-EVENT-NAME:Japanese Grand Prix
-X-COUNTRY:JP
-X-CIRCUIT:Suzuka Circuit
+X-COUNTRY:Japan
+X-CIRCUIT:Suzuka International Racing Course
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-3-0-fp3@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260328
-DTEND;VALUE=DATE:20260329
-SUMMARY:Practice 3
-DESCRIPTION:Japanese Grand Prix - Practice 3 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Suzuka Circuit, Japan
-STATUS:TENTATIVE
+UID:f1-2026-013-ac9536a56c@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260328T023000Z
+DTEND:20260328T033000Z
+SUMMARY:Japanese Grand Prix - Practice 3
+LOCATION:Suzuka International Racing Course\, Japan
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 3
 X-EVENT-NAME:Japanese Grand Prix
-X-COUNTRY:JP
-X-CIRCUIT:Suzuka Circuit
+X-COUNTRY:Japan
+X-CIRCUIT:Suzuka International Racing Course
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-3-0-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260328
-DTEND;VALUE=DATE:20260329
-SUMMARY:Qualifying
-DESCRIPTION:Japanese Grand Prix - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Suzuka Circuit, Japan
-STATUS:TENTATIVE
+UID:f1-2026-014-a1df6972c7@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260328T060000Z
+DTEND:20260328T070000Z
+SUMMARY:Japanese Grand Prix - Qualifying
+LOCATION:Suzuka International Racing Course\, Japan
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Qualifying
 X-EVENT-NAME:Japanese Grand Prix
-X-COUNTRY:JP
-X-CIRCUIT:Suzuka Circuit
+X-COUNTRY:Japan
+X-CIRCUIT:Suzuka International Racing Course
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-3-0-race@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260329
-DTEND;VALUE=DATE:20260330
-SUMMARY:Race
-DESCRIPTION:Japanese Grand Prix - Race - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Suzuka Circuit, Japan
-STATUS:TENTATIVE
+UID:f1-2026-015-16e5acd15f@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260329T050000Z
+DTEND:20260329T070000Z
+SUMMARY:Japanese Grand Prix - Race
+LOCATION:Suzuka International Racing Course\, Japan
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Race
 X-EVENT-NAME:Japanese Grand Prix
-X-COUNTRY:JP
-X-CIRCUIT:Suzuka Circuit
+X-COUNTRY:Japan
+X-CIRCUIT:Suzuka International Racing Course
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-4-0-fp1@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260502
-SUMMARY:Practice 1
-DESCRIPTION:Miami Grand Prix - Practice 1 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Miami International Autodrome, United States
-STATUS:TENTATIVE
+UID:f1-2026-016-5b40bea08a@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260501T160000Z
+DTEND:20260501T173000Z
+SUMMARY:Miami Grand Prix - Practice 1
+LOCATION:Miami International Autodrome\, United States
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 1
 X-EVENT-NAME:Miami Grand Prix
-X-COUNTRY:US
+X-COUNTRY:United States
 X-CIRCUIT:Miami International Autodrome
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-4-0-sprint-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260502
-SUMMARY:Sprint Qualifying
-DESCRIPTION:Miami Grand Prix - Sprint Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Miami International Autodrome, United States
-STATUS:TENTATIVE
+UID:f1-2026-017-f75f51d508@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260501T203000Z
+DTEND:20260501T211400Z
+SUMMARY:Miami Grand Prix - Sprint Qualifying
+LOCATION:Miami International Autodrome\, United States
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Sprint Qualifying
 X-EVENT-NAME:Miami Grand Prix
-X-COUNTRY:US
+X-COUNTRY:United States
 X-CIRCUIT:Miami International Autodrome
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-4-0-sprint@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260502
-DTEND;VALUE=DATE:20260503
-SUMMARY:Sprint
-DESCRIPTION:Miami Grand Prix - Sprint - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Miami International Autodrome, United States
-STATUS:TENTATIVE
+UID:f1-2026-018-fdaa7e1f5d@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260502T160000Z
+DTEND:20260502T170000Z
+SUMMARY:Miami Grand Prix - Sprint
+LOCATION:Miami International Autodrome\, United States
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Sprint
 X-EVENT-NAME:Miami Grand Prix
-X-COUNTRY:US
+X-COUNTRY:United States
 X-CIRCUIT:Miami International Autodrome
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-4-0-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260502
-DTEND;VALUE=DATE:20260503
-SUMMARY:Qualifying
-DESCRIPTION:Miami Grand Prix - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Miami International Autodrome, United States
-STATUS:TENTATIVE
+UID:f1-2026-019-2170fa8508@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260502T200000Z
+DTEND:20260502T210000Z
+SUMMARY:Miami Grand Prix - Qualifying
+LOCATION:Miami International Autodrome\, United States
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Qualifying
 X-EVENT-NAME:Miami Grand Prix
-X-COUNTRY:US
+X-COUNTRY:United States
 X-CIRCUIT:Miami International Autodrome
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-4-0-race@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260503
-DTEND;VALUE=DATE:20260504
-SUMMARY:Race
-DESCRIPTION:Miami Grand Prix - Race - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Miami International Autodrome, United States
-STATUS:TENTATIVE
+UID:f1-2026-020-02fcd6b2a6@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260503T170000Z
+DTEND:20260503T190000Z
+SUMMARY:Miami Grand Prix - Race
+LOCATION:Miami International Autodrome\, United States
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Race
 X-EVENT-NAME:Miami Grand Prix
-X-COUNTRY:US
+X-COUNTRY:United States
 X-CIRCUIT:Miami International Autodrome
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-5-0-fp1@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260523
-SUMMARY:Practice 1
-DESCRIPTION:Canadian Grand Prix - Practice 1 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit Gilles-Villeneuve, Canada
-STATUS:TENTATIVE
+UID:f1-2026-021-19dfb8217b@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260522T163000Z
+DTEND:20260522T173000Z
+SUMMARY:Canadian Grand Prix - Practice 1
+LOCATION:Circuit Gilles-Villeneuve\, Canada
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 1
 X-EVENT-NAME:Canadian Grand Prix
-X-COUNTRY:CA
+X-COUNTRY:Canada
 X-CIRCUIT:Circuit Gilles-Villeneuve
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-5-0-sprint-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260523
-SUMMARY:Sprint Qualifying
-DESCRIPTION:Canadian Grand Prix - Sprint Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit Gilles-Villeneuve, Canada
-STATUS:TENTATIVE
+UID:f1-2026-022-b604fca647@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260522T203000Z
+DTEND:20260522T211400Z
+SUMMARY:Canadian Grand Prix - Sprint Qualifying
+LOCATION:Circuit Gilles-Villeneuve\, Canada
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Sprint Qualifying
 X-EVENT-NAME:Canadian Grand Prix
-X-COUNTRY:CA
+X-COUNTRY:Canada
 X-CIRCUIT:Circuit Gilles-Villeneuve
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-5-0-sprint@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260524
-SUMMARY:Sprint
-DESCRIPTION:Canadian Grand Prix - Sprint - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit Gilles-Villeneuve, Canada
-STATUS:TENTATIVE
+UID:f1-2026-023-38c0b47fa0@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260523T160000Z
+DTEND:20260523T170000Z
+SUMMARY:Canadian Grand Prix - Sprint
+LOCATION:Circuit Gilles-Villeneuve\, Canada
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Sprint
 X-EVENT-NAME:Canadian Grand Prix
-X-COUNTRY:CA
+X-COUNTRY:Canada
 X-CIRCUIT:Circuit Gilles-Villeneuve
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-5-0-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260524
-SUMMARY:Qualifying
-DESCRIPTION:Canadian Grand Prix - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit Gilles-Villeneuve, Canada
-STATUS:TENTATIVE
+UID:f1-2026-024-bbfe383a1e@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260523T200000Z
+DTEND:20260523T210000Z
+SUMMARY:Canadian Grand Prix - Qualifying
+LOCATION:Circuit Gilles-Villeneuve\, Canada
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Qualifying
 X-EVENT-NAME:Canadian Grand Prix
-X-COUNTRY:CA
+X-COUNTRY:Canada
 X-CIRCUIT:Circuit Gilles-Villeneuve
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-5-0-race@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
-SUMMARY:Race
-DESCRIPTION:Canadian Grand Prix - Race - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit Gilles-Villeneuve, Canada
-STATUS:TENTATIVE
+UID:f1-2026-025-d2d0dbaff7@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260524T200000Z
+DTEND:20260524T220000Z
+SUMMARY:Canadian Grand Prix - Race
+LOCATION:Circuit Gilles-Villeneuve\, Canada
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Race
 X-EVENT-NAME:Canadian Grand Prix
-X-COUNTRY:CA
+X-COUNTRY:Canada
 X-CIRCUIT:Circuit Gilles-Villeneuve
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-6-0-fp1@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:Practice 1
-DESCRIPTION:Monaco Grand Prix - Practice 1 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit de Monaco, Monaco
-STATUS:TENTATIVE
+UID:f1-2026-026-d6f9130bf8@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260605T113000Z
+DTEND:20260605T123000Z
+SUMMARY:Monaco Grand Prix - Practice 1
+LOCATION:Circuit de Monaco\, Monaco
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 1
 X-EVENT-NAME:Monaco Grand Prix
-X-COUNTRY:MC
+X-COUNTRY:Monaco
 X-CIRCUIT:Circuit de Monaco
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-6-0-fp2@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:Practice 2
-DESCRIPTION:Monaco Grand Prix - Practice 2 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit de Monaco, Monaco
-STATUS:TENTATIVE
+UID:f1-2026-027-a5dcfb0867@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260605T150000Z
+DTEND:20260605T160000Z
+SUMMARY:Monaco Grand Prix - Practice 2
+LOCATION:Circuit de Monaco\, Monaco
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 2
 X-EVENT-NAME:Monaco Grand Prix
-X-COUNTRY:MC
+X-COUNTRY:Monaco
 X-CIRCUIT:Circuit de Monaco
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-6-0-fp3@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-SUMMARY:Practice 3
-DESCRIPTION:Monaco Grand Prix - Practice 3 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit de Monaco, Monaco
-STATUS:TENTATIVE
+UID:f1-2026-028-e6e8907689@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260606T103000Z
+DTEND:20260606T113000Z
+SUMMARY:Monaco Grand Prix - Practice 3
+LOCATION:Circuit de Monaco\, Monaco
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 3
 X-EVENT-NAME:Monaco Grand Prix
-X-COUNTRY:MC
+X-COUNTRY:Monaco
 X-CIRCUIT:Circuit de Monaco
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-6-0-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-SUMMARY:Qualifying
-DESCRIPTION:Monaco Grand Prix - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit de Monaco, Monaco
-STATUS:TENTATIVE
+UID:f1-2026-029-46a3e687b1@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260606T140000Z
+DTEND:20260606T150000Z
+SUMMARY:Monaco Grand Prix - Qualifying
+LOCATION:Circuit de Monaco\, Monaco
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Qualifying
 X-EVENT-NAME:Monaco Grand Prix
-X-COUNTRY:MC
+X-COUNTRY:Monaco
 X-CIRCUIT:Circuit de Monaco
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-6-0-race@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-SUMMARY:Race
-DESCRIPTION:Monaco Grand Prix - Race - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit de Monaco, Monaco
-STATUS:TENTATIVE
+UID:f1-2026-030-4bbb418de8@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260607T130000Z
+DTEND:20260607T150000Z
+SUMMARY:Monaco Grand Prix - Race
+LOCATION:Circuit de Monaco\, Monaco
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Race
 X-EVENT-NAME:Monaco Grand Prix
-X-COUNTRY:MC
+X-COUNTRY:Monaco
 X-CIRCUIT:Circuit de Monaco
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-7-0-fp1@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260613
-SUMMARY:Practice 1
-DESCRIPTION:Spanish Grand Prix - Practice 1 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit de Barcelona-Catalunya, Spain
-STATUS:TENTATIVE
+UID:f1-2026-031-f04916733b@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260612T113000Z
+DTEND:20260612T123000Z
+SUMMARY:Barcelona-Catalunya Grand Prix - Practice 1
+LOCATION:Circuit de Barcelona-Catalunya\, Spain
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 1
-X-EVENT-NAME:Spanish Grand Prix
-X-COUNTRY:ES
+X-EVENT-NAME:Barcelona-Catalunya Grand Prix
+X-COUNTRY:Spain
 X-CIRCUIT:Circuit de Barcelona-Catalunya
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-7-0-fp2@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260613
-SUMMARY:Practice 2
-DESCRIPTION:Spanish Grand Prix - Practice 2 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit de Barcelona-Catalunya, Spain
-STATUS:TENTATIVE
+UID:f1-2026-032-02a8dd33d4@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260612T150000Z
+DTEND:20260612T160000Z
+SUMMARY:Barcelona-Catalunya Grand Prix - Practice 2
+LOCATION:Circuit de Barcelona-Catalunya\, Spain
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 2
-X-EVENT-NAME:Spanish Grand Prix
-X-COUNTRY:ES
+X-EVENT-NAME:Barcelona-Catalunya Grand Prix
+X-COUNTRY:Spain
 X-CIRCUIT:Circuit de Barcelona-Catalunya
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-7-0-fp3@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260613
-DTEND;VALUE=DATE:20260614
-SUMMARY:Practice 3
-DESCRIPTION:Spanish Grand Prix - Practice 3 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit de Barcelona-Catalunya, Spain
-STATUS:TENTATIVE
+UID:f1-2026-033-f978180c26@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260613T103000Z
+DTEND:20260613T113000Z
+SUMMARY:Barcelona-Catalunya Grand Prix - Practice 3
+LOCATION:Circuit de Barcelona-Catalunya\, Spain
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 3
-X-EVENT-NAME:Spanish Grand Prix
-X-COUNTRY:ES
+X-EVENT-NAME:Barcelona-Catalunya Grand Prix
+X-COUNTRY:Spain
 X-CIRCUIT:Circuit de Barcelona-Catalunya
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-7-0-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260613
-DTEND;VALUE=DATE:20260614
-SUMMARY:Qualifying
-DESCRIPTION:Spanish Grand Prix - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit de Barcelona-Catalunya, Spain
-STATUS:TENTATIVE
+UID:f1-2026-034-08ad8a6bd6@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260613T140000Z
+DTEND:20260613T150000Z
+SUMMARY:Barcelona-Catalunya Grand Prix - Qualifying
+LOCATION:Circuit de Barcelona-Catalunya\, Spain
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Qualifying
-X-EVENT-NAME:Spanish Grand Prix
-X-COUNTRY:ES
+X-EVENT-NAME:Barcelona-Catalunya Grand Prix
+X-COUNTRY:Spain
 X-CIRCUIT:Circuit de Barcelona-Catalunya
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-7-0-race@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260614
-DTEND;VALUE=DATE:20260615
-SUMMARY:Race
-DESCRIPTION:Spanish Grand Prix - Race - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit de Barcelona-Catalunya, Spain
-STATUS:TENTATIVE
+UID:f1-2026-035-bb1e990ac8@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260614T130000Z
+DTEND:20260614T150000Z
+SUMMARY:Barcelona-Catalunya Grand Prix - Race
+LOCATION:Circuit de Barcelona-Catalunya\, Spain
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Race
-X-EVENT-NAME:Spanish Grand Prix
-X-COUNTRY:ES
+X-EVENT-NAME:Barcelona-Catalunya Grand Prix
+X-COUNTRY:Spain
 X-CIRCUIT:Circuit de Barcelona-Catalunya
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-8-0-fp1@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260627
-SUMMARY:Practice 1
-DESCRIPTION:Austrian Grand Prix - Practice 1 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Red Bull Ring, Austria
-STATUS:TENTATIVE
+UID:f1-2026-036-d0bb7aac1c@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260626T113000Z
+DTEND:20260626T123000Z
+SUMMARY:Austrian Grand Prix - Practice 1
+LOCATION:Red Bull Ring\, Austria
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 1
 X-EVENT-NAME:Austrian Grand Prix
-X-COUNTRY:AT
+X-COUNTRY:Austria
 X-CIRCUIT:Red Bull Ring
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-8-0-fp2@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260627
-SUMMARY:Practice 2
-DESCRIPTION:Austrian Grand Prix - Practice 2 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Red Bull Ring, Austria
-STATUS:TENTATIVE
+UID:f1-2026-037-b770fb8c9e@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260626T150000Z
+DTEND:20260626T160000Z
+SUMMARY:Austrian Grand Prix - Practice 2
+LOCATION:Red Bull Ring\, Austria
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 2
 X-EVENT-NAME:Austrian Grand Prix
-X-COUNTRY:AT
+X-COUNTRY:Austria
 X-CIRCUIT:Red Bull Ring
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-8-0-fp3@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260627
-DTEND;VALUE=DATE:20260628
-SUMMARY:Practice 3
-DESCRIPTION:Austrian Grand Prix - Practice 3 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Red Bull Ring, Austria
-STATUS:TENTATIVE
+UID:f1-2026-038-bb05f676c7@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260627T103000Z
+DTEND:20260627T113000Z
+SUMMARY:Austrian Grand Prix - Practice 3
+LOCATION:Red Bull Ring\, Austria
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 3
 X-EVENT-NAME:Austrian Grand Prix
-X-COUNTRY:AT
+X-COUNTRY:Austria
 X-CIRCUIT:Red Bull Ring
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-8-0-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260627
-DTEND;VALUE=DATE:20260628
-SUMMARY:Qualifying
-DESCRIPTION:Austrian Grand Prix - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Red Bull Ring, Austria
-STATUS:TENTATIVE
+UID:f1-2026-039-44c81d62e7@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260627T140000Z
+DTEND:20260627T150000Z
+SUMMARY:Austrian Grand Prix - Qualifying
+LOCATION:Red Bull Ring\, Austria
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Qualifying
 X-EVENT-NAME:Austrian Grand Prix
-X-COUNTRY:AT
+X-COUNTRY:Austria
 X-CIRCUIT:Red Bull Ring
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-8-0-race@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260628
-DTEND;VALUE=DATE:20260629
-SUMMARY:Race
-DESCRIPTION:Austrian Grand Prix - Race - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Red Bull Ring, Austria
-STATUS:TENTATIVE
+UID:f1-2026-040-d2dce52c35@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260628T130000Z
+DTEND:20260628T150000Z
+SUMMARY:Austrian Grand Prix - Race
+LOCATION:Red Bull Ring\, Austria
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Race
 X-EVENT-NAME:Austrian Grand Prix
-X-COUNTRY:AT
+X-COUNTRY:Austria
 X-CIRCUIT:Red Bull Ring
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-9-0-fp1@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260704
-SUMMARY:Practice 1
-DESCRIPTION:British Grand Prix - Practice 1 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Silverstone Circuit, United Kingdom
-STATUS:TENTATIVE
+UID:f1-2026-041-13af04b409@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260703T113000Z
+DTEND:20260703T123000Z
+SUMMARY:British Grand Prix - Practice 1
+LOCATION:Silverstone Circuit\, United Kingdom
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 1
 X-EVENT-NAME:British Grand Prix
-X-COUNTRY:GB
+X-COUNTRY:United Kingdom
 X-CIRCUIT:Silverstone Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-9-0-sprint-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260704
-SUMMARY:Sprint Qualifying
-DESCRIPTION:British Grand Prix - Sprint Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Silverstone Circuit, United Kingdom
-STATUS:TENTATIVE
+UID:f1-2026-042-2464592f55@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260703T153000Z
+DTEND:20260703T161400Z
+SUMMARY:British Grand Prix - Sprint Qualifying
+LOCATION:Silverstone Circuit\, United Kingdom
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Sprint Qualifying
 X-EVENT-NAME:British Grand Prix
-X-COUNTRY:GB
+X-COUNTRY:United Kingdom
 X-CIRCUIT:Silverstone Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-9-0-sprint@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260705
-SUMMARY:Sprint
-DESCRIPTION:British Grand Prix - Sprint - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Silverstone Circuit, United Kingdom
-STATUS:TENTATIVE
+UID:f1-2026-043-f9ace92457@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260704T110000Z
+DTEND:20260704T120000Z
+SUMMARY:British Grand Prix - Sprint
+LOCATION:Silverstone Circuit\, United Kingdom
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Sprint
 X-EVENT-NAME:British Grand Prix
-X-COUNTRY:GB
+X-COUNTRY:United Kingdom
 X-CIRCUIT:Silverstone Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-9-0-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260705
-SUMMARY:Qualifying
-DESCRIPTION:British Grand Prix - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Silverstone Circuit, United Kingdom
-STATUS:TENTATIVE
+UID:f1-2026-044-fec289ee5d@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260704T150000Z
+DTEND:20260704T160000Z
+SUMMARY:British Grand Prix - Qualifying
+LOCATION:Silverstone Circuit\, United Kingdom
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Qualifying
 X-EVENT-NAME:British Grand Prix
-X-COUNTRY:GB
+X-COUNTRY:United Kingdom
 X-CIRCUIT:Silverstone Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-9-0-race@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260705
-DTEND;VALUE=DATE:20260706
-SUMMARY:Race
-DESCRIPTION:British Grand Prix - Race - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Silverstone Circuit, United Kingdom
-STATUS:TENTATIVE
+UID:f1-2026-045-face2c86f8@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260705T140000Z
+DTEND:20260705T160000Z
+SUMMARY:British Grand Prix - Race
+LOCATION:Silverstone Circuit\, United Kingdom
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Race
 X-EVENT-NAME:British Grand Prix
-X-COUNTRY:GB
+X-COUNTRY:United Kingdom
 X-CIRCUIT:Silverstone Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-10-0-fp1@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260718
-SUMMARY:Practice 1
-DESCRIPTION:Belgian Grand Prix - Practice 1 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit de Spa-Francorchamps, Belgium
-STATUS:TENTATIVE
+UID:f1-2026-046-a0b477d87c@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260717T113000Z
+DTEND:20260717T123000Z
+SUMMARY:Belgian Grand Prix - Practice 1
+LOCATION:Circuit de Spa-Francorchamps\, Belgium
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 1
 X-EVENT-NAME:Belgian Grand Prix
-X-COUNTRY:BE
+X-COUNTRY:Belgium
 X-CIRCUIT:Circuit de Spa-Francorchamps
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-10-0-fp2@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260718
-SUMMARY:Practice 2
-DESCRIPTION:Belgian Grand Prix - Practice 2 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit de Spa-Francorchamps, Belgium
-STATUS:TENTATIVE
+UID:f1-2026-047-b03968550c@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260717T150000Z
+DTEND:20260717T160000Z
+SUMMARY:Belgian Grand Prix - Practice 2
+LOCATION:Circuit de Spa-Francorchamps\, Belgium
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 2
 X-EVENT-NAME:Belgian Grand Prix
-X-COUNTRY:BE
+X-COUNTRY:Belgium
 X-CIRCUIT:Circuit de Spa-Francorchamps
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-10-0-fp3@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260719
-SUMMARY:Practice 3
-DESCRIPTION:Belgian Grand Prix - Practice 3 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit de Spa-Francorchamps, Belgium
-STATUS:TENTATIVE
+UID:f1-2026-048-c804f43d64@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260718T103000Z
+DTEND:20260718T113000Z
+SUMMARY:Belgian Grand Prix - Practice 3
+LOCATION:Circuit de Spa-Francorchamps\, Belgium
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 3
 X-EVENT-NAME:Belgian Grand Prix
-X-COUNTRY:BE
+X-COUNTRY:Belgium
 X-CIRCUIT:Circuit de Spa-Francorchamps
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-10-0-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260719
-SUMMARY:Qualifying
-DESCRIPTION:Belgian Grand Prix - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit de Spa-Francorchamps, Belgium
-STATUS:TENTATIVE
+UID:f1-2026-049-c56df3a8ee@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260718T140000Z
+DTEND:20260718T150000Z
+SUMMARY:Belgian Grand Prix - Qualifying
+LOCATION:Circuit de Spa-Francorchamps\, Belgium
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Qualifying
 X-EVENT-NAME:Belgian Grand Prix
-X-COUNTRY:BE
+X-COUNTRY:Belgium
 X-CIRCUIT:Circuit de Spa-Francorchamps
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-10-0-race@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260719
-DTEND;VALUE=DATE:20260720
-SUMMARY:Race
-DESCRIPTION:Belgian Grand Prix - Race - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit de Spa-Francorchamps, Belgium
-STATUS:TENTATIVE
+UID:f1-2026-050-407d47d5ae@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260719T130000Z
+DTEND:20260719T150000Z
+SUMMARY:Belgian Grand Prix - Race
+LOCATION:Circuit de Spa-Francorchamps\, Belgium
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Race
 X-EVENT-NAME:Belgian Grand Prix
-X-COUNTRY:BE
+X-COUNTRY:Belgium
 X-CIRCUIT:Circuit de Spa-Francorchamps
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-11-0-fp1@motorsport-calendar
-DTSTAMP:20260721T000000Z
+UID:f1-2026-051-9b9705f339@2026yaristakvimi
+DTSTAMP:20260721T134040Z
 DTSTART:20260724T113000Z
 DTEND:20260724T123000Z
-SUMMARY:Practice 1
-DESCRIPTION:Hungarian Grand Prix - Practice 1
-LOCATION:Hungaroring, Hungary
+SUMMARY:Hungarian Grand Prix - Practice 1
+LOCATION:Hungaroring\, Hungary
 STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 1
 X-EVENT-NAME:Hungarian Grand Prix
-X-COUNTRY:HU
+X-COUNTRY:Hungary
 X-CIRCUIT:Hungaroring
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-11-0-fp2@motorsport-calendar
-DTSTAMP:20260721T000000Z
+UID:f1-2026-052-73381c1737@2026yaristakvimi
+DTSTAMP:20260721T134040Z
 DTSTART:20260724T150000Z
 DTEND:20260724T160000Z
-SUMMARY:Practice 2
-DESCRIPTION:Hungarian Grand Prix - Practice 2
-LOCATION:Hungaroring, Hungary
+SUMMARY:Hungarian Grand Prix - Practice 2
+LOCATION:Hungaroring\, Hungary
 STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 2
 X-EVENT-NAME:Hungarian Grand Prix
-X-COUNTRY:HU
+X-COUNTRY:Hungary
 X-CIRCUIT:Hungaroring
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-11-0-fp3@motorsport-calendar
-DTSTAMP:20260721T000000Z
+UID:f1-2026-053-64b8f90bfc@2026yaristakvimi
+DTSTAMP:20260721T134040Z
 DTSTART:20260725T103000Z
 DTEND:20260725T113000Z
-SUMMARY:Practice 3
-DESCRIPTION:Hungarian Grand Prix - Practice 3
-LOCATION:Hungaroring, Hungary
+SUMMARY:Hungarian Grand Prix - Practice 3
+LOCATION:Hungaroring\, Hungary
 STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 3
 X-EVENT-NAME:Hungarian Grand Prix
-X-COUNTRY:HU
+X-COUNTRY:Hungary
 X-CIRCUIT:Hungaroring
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-11-0-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
+UID:f1-2026-054-3c11b2ea10@2026yaristakvimi
+DTSTAMP:20260721T134040Z
 DTSTART:20260725T140000Z
 DTEND:20260725T150000Z
-SUMMARY:Qualifying
-DESCRIPTION:Hungarian Grand Prix - Qualifying
-LOCATION:Hungaroring, Hungary
+SUMMARY:Hungarian Grand Prix - Qualifying
+LOCATION:Hungaroring\, Hungary
 STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Qualifying
 X-EVENT-NAME:Hungarian Grand Prix
-X-COUNTRY:HU
+X-COUNTRY:Hungary
 X-CIRCUIT:Hungaroring
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-11-0-race@motorsport-calendar
-DTSTAMP:20260721T000000Z
+UID:f1-2026-055-2c8009d328@2026yaristakvimi
+DTSTAMP:20260721T134040Z
 DTSTART:20260726T130000Z
 DTEND:20260726T150000Z
-SUMMARY:Race
-DESCRIPTION:Hungarian Grand Prix - Race
-LOCATION:Hungaroring, Hungary
+SUMMARY:Hungarian Grand Prix - Race
+LOCATION:Hungaroring\, Hungary
 STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Race
 X-EVENT-NAME:Hungarian Grand Prix
-X-COUNTRY:HU
+X-COUNTRY:Hungary
 X-CIRCUIT:Hungaroring
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-12-0-fp1@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:Practice 1
-DESCRIPTION:Dutch Grand Prix - Practice 1 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit Zandvoort, Netherlands
-STATUS:TENTATIVE
+UID:f1-2026-056-e2ef8f982f@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260821T103000Z
+DTEND:20260821T113000Z
+SUMMARY:Dutch Grand Prix - Practice 1
+LOCATION:Circuit Zandvoort\, Netherlands
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 1
 X-EVENT-NAME:Dutch Grand Prix
-X-COUNTRY:NL
+X-COUNTRY:Netherlands
 X-CIRCUIT:Circuit Zandvoort
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-12-0-sprint-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:Sprint Qualifying
-DESCRIPTION:Dutch Grand Prix - Sprint Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit Zandvoort, Netherlands
-STATUS:TENTATIVE
+UID:f1-2026-057-81c7df9557@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260821T143000Z
+DTEND:20260821T151400Z
+SUMMARY:Dutch Grand Prix - Sprint Qualifying
+LOCATION:Circuit Zandvoort\, Netherlands
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Sprint Qualifying
 X-EVENT-NAME:Dutch Grand Prix
-X-COUNTRY:NL
+X-COUNTRY:Netherlands
 X-CIRCUIT:Circuit Zandvoort
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-12-0-sprint@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-SUMMARY:Sprint
-DESCRIPTION:Dutch Grand Prix - Sprint - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit Zandvoort, Netherlands
-STATUS:TENTATIVE
+UID:f1-2026-058-afb2afed9e@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260822T100000Z
+DTEND:20260822T110000Z
+SUMMARY:Dutch Grand Prix - Sprint
+LOCATION:Circuit Zandvoort\, Netherlands
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Sprint
 X-EVENT-NAME:Dutch Grand Prix
-X-COUNTRY:NL
+X-COUNTRY:Netherlands
 X-CIRCUIT:Circuit Zandvoort
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-12-0-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-SUMMARY:Qualifying
-DESCRIPTION:Dutch Grand Prix - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit Zandvoort, Netherlands
-STATUS:TENTATIVE
+UID:f1-2026-059-c702f54fdd@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260822T140000Z
+DTEND:20260822T150000Z
+SUMMARY:Dutch Grand Prix - Qualifying
+LOCATION:Circuit Zandvoort\, Netherlands
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Qualifying
 X-EVENT-NAME:Dutch Grand Prix
-X-COUNTRY:NL
+X-COUNTRY:Netherlands
 X-CIRCUIT:Circuit Zandvoort
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-12-0-race@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-SUMMARY:Race
-DESCRIPTION:Dutch Grand Prix - Race - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit Zandvoort, Netherlands
-STATUS:TENTATIVE
+UID:f1-2026-060-4193661fc0@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260823T130000Z
+DTEND:20260823T150000Z
+SUMMARY:Dutch Grand Prix - Race
+LOCATION:Circuit Zandvoort\, Netherlands
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Race
 X-EVENT-NAME:Dutch Grand Prix
-X-COUNTRY:NL
+X-COUNTRY:Netherlands
 X-CIRCUIT:Circuit Zandvoort
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-13-0-fp1@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-SUMMARY:Practice 1
-DESCRIPTION:Italian Grand Prix - Practice 1 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Autodromo Nazionale Monza, Italy
-STATUS:TENTATIVE
+UID:f1-2026-061-420d806da7@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260904T103000Z
+DTEND:20260904T113000Z
+SUMMARY:Italian Grand Prix - Practice 1
+LOCATION:Autodromo Nazionale Monza\, Italy
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 1
 X-EVENT-NAME:Italian Grand Prix
-X-COUNTRY:IT
+X-COUNTRY:Italy
 X-CIRCUIT:Autodromo Nazionale Monza
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-13-0-fp2@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-SUMMARY:Practice 2
-DESCRIPTION:Italian Grand Prix - Practice 2 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Autodromo Nazionale Monza, Italy
-STATUS:TENTATIVE
+UID:f1-2026-062-b26900142a@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260904T140000Z
+DTEND:20260904T150000Z
+SUMMARY:Italian Grand Prix - Practice 2
+LOCATION:Autodromo Nazionale Monza\, Italy
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 2
 X-EVENT-NAME:Italian Grand Prix
-X-COUNTRY:IT
+X-COUNTRY:Italy
 X-CIRCUIT:Autodromo Nazionale Monza
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-13-0-fp3@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-SUMMARY:Practice 3
-DESCRIPTION:Italian Grand Prix - Practice 3 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Autodromo Nazionale Monza, Italy
-STATUS:TENTATIVE
+UID:f1-2026-063-d884891f65@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260905T103000Z
+DTEND:20260905T113000Z
+SUMMARY:Italian Grand Prix - Practice 3
+LOCATION:Autodromo Nazionale Monza\, Italy
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 3
 X-EVENT-NAME:Italian Grand Prix
-X-COUNTRY:IT
+X-COUNTRY:Italy
 X-CIRCUIT:Autodromo Nazionale Monza
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-13-0-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-SUMMARY:Qualifying
-DESCRIPTION:Italian Grand Prix - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Autodromo Nazionale Monza, Italy
-STATUS:TENTATIVE
+UID:f1-2026-064-f94de53665@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260905T140000Z
+DTEND:20260905T150000Z
+SUMMARY:Italian Grand Prix - Qualifying
+LOCATION:Autodromo Nazionale Monza\, Italy
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Qualifying
 X-EVENT-NAME:Italian Grand Prix
-X-COUNTRY:IT
+X-COUNTRY:Italy
 X-CIRCUIT:Autodromo Nazionale Monza
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-13-0-race@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-SUMMARY:Race
-DESCRIPTION:Italian Grand Prix - Race - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Autodromo Nazionale Monza, Italy
-STATUS:TENTATIVE
+UID:f1-2026-065-f95b33a3d9@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Italian Grand Prix - Race
+LOCATION:Autodromo Nazionale Monza\, Italy
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Race
 X-EVENT-NAME:Italian Grand Prix
-X-COUNTRY:IT
+X-COUNTRY:Italy
 X-CIRCUIT:Autodromo Nazionale Monza
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-14-0-fp1@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Practice 1
-DESCRIPTION:Spanish Grand Prix - Madrid - Practice 1 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:MADRING, Spain
-STATUS:TENTATIVE
+UID:f1-2026-066-e6ab65991c@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260911T113000Z
+DTEND:20260911T123000Z
+SUMMARY:Spanish Grand Prix - Practice 1
+LOCATION:Madring\, Spain
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 1
-X-EVENT-NAME:Spanish Grand Prix - Madrid
-X-COUNTRY:ES
-X-CIRCUIT:MADRING
+X-EVENT-NAME:Spanish Grand Prix
+X-COUNTRY:Spain
+X-CIRCUIT:Madring
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-14-0-fp2@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Practice 2
-DESCRIPTION:Spanish Grand Prix - Madrid - Practice 2 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:MADRING, Spain
-STATUS:TENTATIVE
+UID:f1-2026-067-3ad1327ca1@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260911T150000Z
+DTEND:20260911T160000Z
+SUMMARY:Spanish Grand Prix - Practice 2
+LOCATION:Madring\, Spain
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 2
-X-EVENT-NAME:Spanish Grand Prix - Madrid
-X-COUNTRY:ES
-X-CIRCUIT:MADRING
+X-EVENT-NAME:Spanish Grand Prix
+X-COUNTRY:Spain
+X-CIRCUIT:Madring
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-14-0-fp3@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:Practice 3
-DESCRIPTION:Spanish Grand Prix - Madrid - Practice 3 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:MADRING, Spain
-STATUS:TENTATIVE
+UID:f1-2026-068-7f3d698264@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260912T103000Z
+DTEND:20260912T113000Z
+SUMMARY:Spanish Grand Prix - Practice 3
+LOCATION:Madring\, Spain
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 3
-X-EVENT-NAME:Spanish Grand Prix - Madrid
-X-COUNTRY:ES
-X-CIRCUIT:MADRING
+X-EVENT-NAME:Spanish Grand Prix
+X-COUNTRY:Spain
+X-CIRCUIT:Madring
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-14-0-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:Qualifying
-DESCRIPTION:Spanish Grand Prix - Madrid - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:MADRING, Spain
-STATUS:TENTATIVE
+UID:f1-2026-069-15d83f1b86@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260912T140000Z
+DTEND:20260912T150000Z
+SUMMARY:Spanish Grand Prix - Qualifying
+LOCATION:Madring\, Spain
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Qualifying
-X-EVENT-NAME:Spanish Grand Prix - Madrid
-X-COUNTRY:ES
-X-CIRCUIT:MADRING
+X-EVENT-NAME:Spanish Grand Prix
+X-COUNTRY:Spain
+X-CIRCUIT:Madring
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-14-0-race@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-SUMMARY:Race
-DESCRIPTION:Spanish Grand Prix - Madrid - Race - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:MADRING, Spain
-STATUS:TENTATIVE
+UID:f1-2026-070-03d1e6bb7b@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:Spanish Grand Prix - Race
+LOCATION:Madring\, Spain
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Race
-X-EVENT-NAME:Spanish Grand Prix - Madrid
-X-COUNTRY:ES
-X-CIRCUIT:MADRING
+X-EVENT-NAME:Spanish Grand Prix
+X-COUNTRY:Spain
+X-CIRCUIT:Madring
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-15-0-fp1@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:Practice 1
-DESCRIPTION:Azerbaijan Grand Prix - Practice 1 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Baku City Circuit, Azerbaijan
-STATUS:TENTATIVE
+UID:f1-2026-071-4b00da202a@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260924T083000Z
+DTEND:20260924T093000Z
+SUMMARY:Azerbaijan Grand Prix - Practice 1
+LOCATION:Baku City Circuit\, Azerbaijan
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 1
 X-EVENT-NAME:Azerbaijan Grand Prix
-X-COUNTRY:AZ
+X-COUNTRY:Azerbaijan
 X-CIRCUIT:Baku City Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-15-0-fp2@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:Practice 2
-DESCRIPTION:Azerbaijan Grand Prix - Practice 2 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Baku City Circuit, Azerbaijan
-STATUS:TENTATIVE
+UID:f1-2026-072-bf0e522dad@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260924T120000Z
+DTEND:20260924T130000Z
+SUMMARY:Azerbaijan Grand Prix - Practice 2
+LOCATION:Baku City Circuit\, Azerbaijan
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 2
 X-EVENT-NAME:Azerbaijan Grand Prix
-X-COUNTRY:AZ
+X-COUNTRY:Azerbaijan
 X-CIRCUIT:Baku City Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-15-0-fp3@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:Practice 3
-DESCRIPTION:Azerbaijan Grand Prix - Practice 3 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Baku City Circuit, Azerbaijan
-STATUS:TENTATIVE
+UID:f1-2026-073-c5dc01ddac@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260925T083000Z
+DTEND:20260925T093000Z
+SUMMARY:Azerbaijan Grand Prix - Practice 3
+LOCATION:Baku City Circuit\, Azerbaijan
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 3
 X-EVENT-NAME:Azerbaijan Grand Prix
-X-COUNTRY:AZ
+X-COUNTRY:Azerbaijan
 X-CIRCUIT:Baku City Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-15-0-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:Qualifying
-DESCRIPTION:Azerbaijan Grand Prix - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Baku City Circuit, Azerbaijan
-STATUS:TENTATIVE
+UID:f1-2026-074-6d835e48a5@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260925T120000Z
+DTEND:20260925T130000Z
+SUMMARY:Azerbaijan Grand Prix - Qualifying
+LOCATION:Baku City Circuit\, Azerbaijan
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Qualifying
 X-EVENT-NAME:Azerbaijan Grand Prix
-X-COUNTRY:AZ
+X-COUNTRY:Azerbaijan
 X-CIRCUIT:Baku City Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-15-0-race@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:Race
-DESCRIPTION:Azerbaijan Grand Prix - Race - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Baku City Circuit, Azerbaijan
-STATUS:TENTATIVE
+UID:f1-2026-075-a5ef2c16ea@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:Azerbaijan Grand Prix - Race
+LOCATION:Baku City Circuit\, Azerbaijan
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Race
 X-EVENT-NAME:Azerbaijan Grand Prix
-X-COUNTRY:AZ
+X-COUNTRY:Azerbaijan
 X-CIRCUIT:Baku City Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-16-0-fp1@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Practice 1
-DESCRIPTION:Singapore Grand Prix - Practice 1 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Marina Bay Street Circuit, Singapore
-STATUS:TENTATIVE
+UID:f1-2026-076-55f05f5cb9@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261009T083000Z
+DTEND:20261009T093000Z
+SUMMARY:Singapore Grand Prix - Practice 1
+LOCATION:Marina Bay Street Circuit\, Singapore
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 1
 X-EVENT-NAME:Singapore Grand Prix
-X-COUNTRY:SG
+X-COUNTRY:Singapore
 X-CIRCUIT:Marina Bay Street Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-16-0-sprint-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Sprint Qualifying
-DESCRIPTION:Singapore Grand Prix - Sprint Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Marina Bay Street Circuit, Singapore
-STATUS:TENTATIVE
+UID:f1-2026-077-c65c02913d@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261009T123000Z
+DTEND:20261009T131400Z
+SUMMARY:Singapore Grand Prix - Sprint Qualifying
+LOCATION:Marina Bay Street Circuit\, Singapore
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Sprint Qualifying
 X-EVENT-NAME:Singapore Grand Prix
-X-COUNTRY:SG
+X-COUNTRY:Singapore
 X-CIRCUIT:Marina Bay Street Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-16-0-sprint@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:Sprint
-DESCRIPTION:Singapore Grand Prix - Sprint - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Marina Bay Street Circuit, Singapore
-STATUS:TENTATIVE
+UID:f1-2026-078-54de36264e@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261010T090000Z
+DTEND:20261010T100000Z
+SUMMARY:Singapore Grand Prix - Sprint
+LOCATION:Marina Bay Street Circuit\, Singapore
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Sprint
 X-EVENT-NAME:Singapore Grand Prix
-X-COUNTRY:SG
+X-COUNTRY:Singapore
 X-CIRCUIT:Marina Bay Street Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-16-0-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:Qualifying
-DESCRIPTION:Singapore Grand Prix - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Marina Bay Street Circuit, Singapore
-STATUS:TENTATIVE
+UID:f1-2026-079-c42934a163@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261010T130000Z
+DTEND:20261010T140000Z
+SUMMARY:Singapore Grand Prix - Qualifying
+LOCATION:Marina Bay Street Circuit\, Singapore
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Qualifying
 X-EVENT-NAME:Singapore Grand Prix
-X-COUNTRY:SG
+X-COUNTRY:Singapore
 X-CIRCUIT:Marina Bay Street Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-16-0-race@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-SUMMARY:Race
-DESCRIPTION:Singapore Grand Prix - Race - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Marina Bay Street Circuit, Singapore
-STATUS:TENTATIVE
+UID:f1-2026-080-7ff66bd88f@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261011T120000Z
+DTEND:20261011T140000Z
+SUMMARY:Singapore Grand Prix - Race
+LOCATION:Marina Bay Street Circuit\, Singapore
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Race
 X-EVENT-NAME:Singapore Grand Prix
-X-COUNTRY:SG
+X-COUNTRY:Singapore
 X-CIRCUIT:Marina Bay Street Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-17-0-fp1@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Practice 1
-DESCRIPTION:United States Grand Prix - Practice 1 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit of the Americas, United States
-STATUS:TENTATIVE
+UID:f1-2026-081-020414ec46@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261023T173000Z
+DTEND:20261023T183000Z
+SUMMARY:United States Grand Prix - Practice 1
+LOCATION:Circuit of The Americas\, United States
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 1
 X-EVENT-NAME:United States Grand Prix
-X-COUNTRY:US
-X-CIRCUIT:Circuit of the Americas
+X-COUNTRY:United States
+X-CIRCUIT:Circuit of The Americas
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-17-0-fp2@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Practice 2
-DESCRIPTION:United States Grand Prix - Practice 2 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit of the Americas, United States
-STATUS:TENTATIVE
+UID:f1-2026-082-8dfcb956c7@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261023T210000Z
+DTEND:20261023T220000Z
+SUMMARY:United States Grand Prix - Practice 2
+LOCATION:Circuit of The Americas\, United States
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 2
 X-EVENT-NAME:United States Grand Prix
-X-COUNTRY:US
-X-CIRCUIT:Circuit of the Americas
+X-COUNTRY:United States
+X-CIRCUIT:Circuit of The Americas
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-17-0-fp3@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:Practice 3
-DESCRIPTION:United States Grand Prix - Practice 3 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit of the Americas, United States
-STATUS:TENTATIVE
+UID:f1-2026-083-a97202bd63@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261024T173000Z
+DTEND:20261024T183000Z
+SUMMARY:United States Grand Prix - Practice 3
+LOCATION:Circuit of The Americas\, United States
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 3
 X-EVENT-NAME:United States Grand Prix
-X-COUNTRY:US
-X-CIRCUIT:Circuit of the Americas
+X-COUNTRY:United States
+X-CIRCUIT:Circuit of The Americas
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-17-0-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:Qualifying
-DESCRIPTION:United States Grand Prix - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit of the Americas, United States
-STATUS:TENTATIVE
+UID:f1-2026-084-6756042f93@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261024T210000Z
+DTEND:20261024T220000Z
+SUMMARY:United States Grand Prix - Qualifying
+LOCATION:Circuit of The Americas\, United States
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Qualifying
 X-EVENT-NAME:United States Grand Prix
-X-COUNTRY:US
-X-CIRCUIT:Circuit of the Americas
+X-COUNTRY:United States
+X-CIRCUIT:Circuit of The Americas
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-17-0-race@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-SUMMARY:Race
-DESCRIPTION:United States Grand Prix - Race - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Circuit of the Americas, United States
-STATUS:TENTATIVE
+UID:f1-2026-085-5b83b07a51@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261025T200000Z
+DTEND:20261025T220000Z
+SUMMARY:United States Grand Prix - Race
+LOCATION:Circuit of The Americas\, United States
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Race
 X-EVENT-NAME:United States Grand Prix
-X-COUNTRY:US
-X-CIRCUIT:Circuit of the Americas
+X-COUNTRY:United States
+X-CIRCUIT:Circuit of The Americas
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-18-0-fp1@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Practice 1
-DESCRIPTION:Mexico City Grand Prix - Practice 1 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Autódromo Hermanos Rodríguez, Mexico
-STATUS:TENTATIVE
+UID:f1-2026-086-58d0143a7d@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261030T183000Z
+DTEND:20261030T193000Z
+SUMMARY:Mexico City Grand Prix - Practice 1
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 1
 X-EVENT-NAME:Mexico City Grand Prix
-X-COUNTRY:MX
+X-COUNTRY:Mexico
 X-CIRCUIT:Autódromo Hermanos Rodríguez
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-18-0-fp2@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Practice 2
-DESCRIPTION:Mexico City Grand Prix - Practice 2 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Autódromo Hermanos Rodríguez, Mexico
-STATUS:TENTATIVE
+UID:f1-2026-087-3d8942c352@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261030T220000Z
+DTEND:20261030T230000Z
+SUMMARY:Mexico City Grand Prix - Practice 2
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 2
 X-EVENT-NAME:Mexico City Grand Prix
-X-COUNTRY:MX
+X-COUNTRY:Mexico
 X-CIRCUIT:Autódromo Hermanos Rodríguez
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-18-0-fp3@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:Practice 3
-DESCRIPTION:Mexico City Grand Prix - Practice 3 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Autódromo Hermanos Rodríguez, Mexico
-STATUS:TENTATIVE
+UID:f1-2026-088-8a01f581b7@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261031T173000Z
+DTEND:20261031T183000Z
+SUMMARY:Mexico City Grand Prix - Practice 3
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 3
 X-EVENT-NAME:Mexico City Grand Prix
-X-COUNTRY:MX
+X-COUNTRY:Mexico
 X-CIRCUIT:Autódromo Hermanos Rodríguez
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-18-0-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:Qualifying
-DESCRIPTION:Mexico City Grand Prix - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Autódromo Hermanos Rodríguez, Mexico
-STATUS:TENTATIVE
+UID:f1-2026-089-99cd683195@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261031T210000Z
+DTEND:20261031T220000Z
+SUMMARY:Mexico City Grand Prix - Qualifying
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Qualifying
 X-EVENT-NAME:Mexico City Grand Prix
-X-COUNTRY:MX
+X-COUNTRY:Mexico
 X-CIRCUIT:Autódromo Hermanos Rodríguez
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-18-0-race@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:Race
-DESCRIPTION:Mexico City Grand Prix - Race - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Autódromo Hermanos Rodríguez, Mexico
-STATUS:TENTATIVE
+UID:f1-2026-090-a15601eb30@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+SUMMARY:Mexico City Grand Prix - Race
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Race
 X-EVENT-NAME:Mexico City Grand Prix
-X-COUNTRY:MX
+X-COUNTRY:Mexico
 X-CIRCUIT:Autódromo Hermanos Rodríguez
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-19-0-fp1@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Practice 1
-DESCRIPTION:São Paulo Grand Prix - Practice 1 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Autódromo José Carlos Pace, Brazil
-STATUS:TENTATIVE
+UID:f1-2026-091-7f8059b4a1@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261106T153000Z
+DTEND:20261106T163000Z
+SUMMARY:São Paulo Grand Prix - Practice 1
+LOCATION:Autódromo José Carlos Pace\, Brazil
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 1
 X-EVENT-NAME:São Paulo Grand Prix
-X-COUNTRY:BR
+X-COUNTRY:Brazil
 X-CIRCUIT:Autódromo José Carlos Pace
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-19-0-fp2@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Practice 2
-DESCRIPTION:São Paulo Grand Prix - Practice 2 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Autódromo José Carlos Pace, Brazil
-STATUS:TENTATIVE
+UID:f1-2026-092-770935acff@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261106T190000Z
+DTEND:20261106T200000Z
+SUMMARY:São Paulo Grand Prix - Practice 2
+LOCATION:Autódromo José Carlos Pace\, Brazil
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 2
 X-EVENT-NAME:São Paulo Grand Prix
-X-COUNTRY:BR
+X-COUNTRY:Brazil
 X-CIRCUIT:Autódromo José Carlos Pace
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-19-0-fp3@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:Practice 3
-DESCRIPTION:São Paulo Grand Prix - Practice 3 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Autódromo José Carlos Pace, Brazil
-STATUS:TENTATIVE
+UID:f1-2026-093-e3821e3a5a@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261107T143000Z
+DTEND:20261107T153000Z
+SUMMARY:São Paulo Grand Prix - Practice 3
+LOCATION:Autódromo José Carlos Pace\, Brazil
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 3
 X-EVENT-NAME:São Paulo Grand Prix
-X-COUNTRY:BR
+X-COUNTRY:Brazil
 X-CIRCUIT:Autódromo José Carlos Pace
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-19-0-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:Qualifying
-DESCRIPTION:São Paulo Grand Prix - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Autódromo José Carlos Pace, Brazil
-STATUS:TENTATIVE
+UID:f1-2026-094-125647d6ac@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261107T180000Z
+DTEND:20261107T190000Z
+SUMMARY:São Paulo Grand Prix - Qualifying
+LOCATION:Autódromo José Carlos Pace\, Brazil
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Qualifying
 X-EVENT-NAME:São Paulo Grand Prix
-X-COUNTRY:BR
+X-COUNTRY:Brazil
 X-CIRCUIT:Autódromo José Carlos Pace
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-19-0-race@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:Race
-DESCRIPTION:São Paulo Grand Prix - Race - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Autódromo José Carlos Pace, Brazil
-STATUS:TENTATIVE
+UID:f1-2026-095-f2f25280a1@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261108T170000Z
+DTEND:20261108T190000Z
+SUMMARY:São Paulo Grand Prix - Race
+LOCATION:Autódromo José Carlos Pace\, Brazil
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Race
 X-EVENT-NAME:São Paulo Grand Prix
-X-COUNTRY:BR
+X-COUNTRY:Brazil
 X-CIRCUIT:Autódromo José Carlos Pace
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-20-0-fp1@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Practice 1
-DESCRIPTION:Las Vegas Grand Prix - Practice 1 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Las Vegas Strip Circuit, United States
-STATUS:TENTATIVE
+UID:f1-2026-096-be29ca1efb@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261120T003000Z
+DTEND:20261120T013000Z
+SUMMARY:Las Vegas Grand Prix - Practice 1
+LOCATION:Las Vegas Strip Circuit\, United States
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 1
 X-EVENT-NAME:Las Vegas Grand Prix
-X-COUNTRY:US
+X-COUNTRY:United States
 X-CIRCUIT:Las Vegas Strip Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-20-0-fp2@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Practice 2
-DESCRIPTION:Las Vegas Grand Prix - Practice 2 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Las Vegas Strip Circuit, United States
-STATUS:TENTATIVE
+UID:f1-2026-097-ac67727bae@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261120T040000Z
+DTEND:20261120T050000Z
+SUMMARY:Las Vegas Grand Prix - Practice 2
+LOCATION:Las Vegas Strip Circuit\, United States
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 2
 X-EVENT-NAME:Las Vegas Grand Prix
-X-COUNTRY:US
+X-COUNTRY:United States
 X-CIRCUIT:Las Vegas Strip Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-20-0-fp3@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:Practice 3
-DESCRIPTION:Las Vegas Grand Prix - Practice 3 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Las Vegas Strip Circuit, United States
-STATUS:TENTATIVE
+UID:f1-2026-098-e2778a75d3@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261121T003000Z
+DTEND:20261121T013000Z
+SUMMARY:Las Vegas Grand Prix - Practice 3
+LOCATION:Las Vegas Strip Circuit\, United States
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 3
 X-EVENT-NAME:Las Vegas Grand Prix
-X-COUNTRY:US
+X-COUNTRY:United States
 X-CIRCUIT:Las Vegas Strip Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-20-0-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:Qualifying
-DESCRIPTION:Las Vegas Grand Prix - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Las Vegas Strip Circuit, United States
-STATUS:TENTATIVE
+UID:f1-2026-099-c48bf88207@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261121T040000Z
+DTEND:20261121T050000Z
+SUMMARY:Las Vegas Grand Prix - Qualifying
+LOCATION:Las Vegas Strip Circuit\, United States
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Qualifying
 X-EVENT-NAME:Las Vegas Grand Prix
-X-COUNTRY:US
+X-COUNTRY:United States
 X-CIRCUIT:Las Vegas Strip Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-20-0-race@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Race
-DESCRIPTION:Las Vegas Grand Prix - Race - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Las Vegas Strip Circuit, United States
-STATUS:TENTATIVE
+UID:f1-2026-100-5a7a2e9289@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261122T040000Z
+DTEND:20261122T060000Z
+SUMMARY:Las Vegas Grand Prix - Race
+LOCATION:Las Vegas Strip Circuit\, United States
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Race
 X-EVENT-NAME:Las Vegas Grand Prix
-X-COUNTRY:US
+X-COUNTRY:United States
 X-CIRCUIT:Las Vegas Strip Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-21-0-fp1@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:Practice 1
-DESCRIPTION:Qatar Grand Prix - Practice 1 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Lusail International Circuit, Qatar
-STATUS:TENTATIVE
+UID:f1-2026-101-a454292305@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261127T133000Z
+DTEND:20261127T143000Z
+SUMMARY:Qatar Grand Prix - Practice 1
+LOCATION:Lusail International Circuit\, Qatar
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 1
 X-EVENT-NAME:Qatar Grand Prix
-X-COUNTRY:QA
+X-COUNTRY:Qatar
 X-CIRCUIT:Lusail International Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-21-0-fp2@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:Practice 2
-DESCRIPTION:Qatar Grand Prix - Practice 2 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Lusail International Circuit, Qatar
-STATUS:TENTATIVE
+UID:f1-2026-102-732e67b162@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261127T170000Z
+DTEND:20261127T180000Z
+SUMMARY:Qatar Grand Prix - Practice 2
+LOCATION:Lusail International Circuit\, Qatar
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 2
 X-EVENT-NAME:Qatar Grand Prix
-X-COUNTRY:QA
+X-COUNTRY:Qatar
 X-CIRCUIT:Lusail International Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-21-0-fp3@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:Practice 3
-DESCRIPTION:Qatar Grand Prix - Practice 3 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Lusail International Circuit, Qatar
-STATUS:TENTATIVE
+UID:f1-2026-103-019c367f55@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261128T143000Z
+DTEND:20261128T153000Z
+SUMMARY:Qatar Grand Prix - Practice 3
+LOCATION:Lusail International Circuit\, Qatar
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 3
 X-EVENT-NAME:Qatar Grand Prix
-X-COUNTRY:QA
+X-COUNTRY:Qatar
 X-CIRCUIT:Lusail International Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-21-0-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:Qualifying
-DESCRIPTION:Qatar Grand Prix - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Lusail International Circuit, Qatar
-STATUS:TENTATIVE
+UID:f1-2026-104-c4714295d7@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261128T180000Z
+DTEND:20261128T190000Z
+SUMMARY:Qatar Grand Prix - Qualifying
+LOCATION:Lusail International Circuit\, Qatar
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Qualifying
 X-EVENT-NAME:Qatar Grand Prix
-X-COUNTRY:QA
+X-COUNTRY:Qatar
 X-CIRCUIT:Lusail International Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-21-0-race@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-SUMMARY:Race
-DESCRIPTION:Qatar Grand Prix - Race - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Lusail International Circuit, Qatar
-STATUS:TENTATIVE
+UID:f1-2026-105-a6364b592e@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261129T160000Z
+DTEND:20261129T180000Z
+SUMMARY:Qatar Grand Prix - Race
+LOCATION:Lusail International Circuit\, Qatar
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Race
 X-EVENT-NAME:Qatar Grand Prix
-X-COUNTRY:QA
+X-COUNTRY:Qatar
 X-CIRCUIT:Lusail International Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-22-0-fp1@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Practice 1
-DESCRIPTION:Abu Dhabi Grand Prix - Practice 1 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Yas Marina Circuit, United Arab Emirates
-STATUS:TENTATIVE
+UID:f1-2026-106-ba8436d3f7@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261204T093000Z
+DTEND:20261204T103000Z
+SUMMARY:Abu Dhabi Grand Prix - Practice 1
+LOCATION:Yas Marina Circuit\, United Arab Emirates
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 1
 X-EVENT-NAME:Abu Dhabi Grand Prix
-X-COUNTRY:AE
+X-COUNTRY:United Arab Emirates
 X-CIRCUIT:Yas Marina Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-22-0-fp2@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Practice 2
-DESCRIPTION:Abu Dhabi Grand Prix - Practice 2 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Yas Marina Circuit, United Arab Emirates
-STATUS:TENTATIVE
+UID:f1-2026-107-2971f1e470@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261204T130000Z
+DTEND:20261204T140000Z
+SUMMARY:Abu Dhabi Grand Prix - Practice 2
+LOCATION:Yas Marina Circuit\, United Arab Emirates
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 2
 X-EVENT-NAME:Abu Dhabi Grand Prix
-X-COUNTRY:AE
+X-COUNTRY:United Arab Emirates
 X-CIRCUIT:Yas Marina Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-22-0-fp3@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-SUMMARY:Practice 3
-DESCRIPTION:Abu Dhabi Grand Prix - Practice 3 - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Yas Marina Circuit, United Arab Emirates
-STATUS:TENTATIVE
+UID:f1-2026-108-a9257d501a@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261205T103000Z
+DTEND:20261205T113000Z
+SUMMARY:Abu Dhabi Grand Prix - Practice 3
+LOCATION:Yas Marina Circuit\, United Arab Emirates
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Practice 3
 X-EVENT-NAME:Abu Dhabi Grand Prix
-X-COUNTRY:AE
+X-COUNTRY:United Arab Emirates
 X-CIRCUIT:Yas Marina Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-22-0-qualifying@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-SUMMARY:Qualifying
-DESCRIPTION:Abu Dhabi Grand Prix - Qualifying - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Yas Marina Circuit, United Arab Emirates
-STATUS:TENTATIVE
+UID:f1-2026-109-593ad1cf16@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261205T140000Z
+DTEND:20261205T150000Z
+SUMMARY:Abu Dhabi Grand Prix - Qualifying
+LOCATION:Yas Marina Circuit\, United Arab Emirates
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Qualifying
 X-EVENT-NAME:Abu Dhabi Grand Prix
-X-COUNTRY:AE
+X-COUNTRY:United Arab Emirates
 X-CIRCUIT:Yas Marina Circuit
 END:VEVENT
 BEGIN:VEVENT
-UID:formula1-22-0-race@motorsport-calendar
-DTSTAMP:20260721T000000Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-SUMMARY:Race
-DESCRIPTION:Abu Dhabi Grand Prix - Race - Saat programı kesinleştiğinde güncellenecektir.
-LOCATION:Yas Marina Circuit, United Arab Emirates
-STATUS:TENTATIVE
+UID:f1-2026-110-59a771ea2e@2026yaristakvimi
+DTSTAMP:20260721T134040Z
+DTSTART:20261206T130000Z
+DTEND:20261206T150000Z
+SUMMARY:Abu Dhabi Grand Prix - Race
+LOCATION:Yas Marina Circuit\, United Arab Emirates
+STATUS:CONFIRMED
 CATEGORIES:Formula 1
 X-CHAMPIONSHIP:Formula 1
 X-SESSION-TYPE:Race
 X-EVENT-NAME:Abu Dhabi Grand Prix
-X-COUNTRY:AE
+X-COUNTRY:United Arab Emirates
 X-CIRCUIT:Yas Marina Circuit
 END:VEVENT
 END:VCALENDAR
