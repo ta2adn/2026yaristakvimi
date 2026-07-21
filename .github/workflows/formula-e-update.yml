@@ -3,14 +3,14 @@ name: Formula E Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: "0 */6 * * *"
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -18,22 +18,20 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install packages
-        run: |
-          pip install requests beautifulsoup4 lxml icalendar pytz
+      - name: Install Requests
+        run: pip install requests
 
-      - name: Run updater
-        run: |
-          python scripts/update_formulae.py
+      - name: Download latest Formula E calendar
+        run: python scripts/update_formulae.py
 
-      - name: Commit changes
+      - name: Commit updated ICS
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add .
+          git add data/2026/formula-e.ics
 
-          git diff --cached --quiet || (
-            git commit -m "Auto update Formula E calendar"
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Formula E calendar"
             git push
-          )
+          fi
