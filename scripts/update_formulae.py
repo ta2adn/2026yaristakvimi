@@ -1,20 +1,26 @@
 import requests
+from bs4 import BeautifulSoup
 
-print("Formula E Robot Basladi")
+URL = "https://www.fiaformulae.com/en/calendar/2025-26"
 
-url = "https://www.fiaformulae.com/en/calendar"
+headers = {
+    "User-Agent": "Mozilla/5.0"
+}
 
-r = requests.get(
-    url,
-    headers={
-        "User-Agent": "Mozilla/5.0"
-    },
-    timeout=30,
-)
+r = requests.get(URL, headers=headers, timeout=30)
+print("Status:", r.status_code)
 
-print(r.status_code)
+soup = BeautifulSoup(r.text, "html.parser")
 
-with open("formulae_calendar.html", "w", encoding="utf-8") as f:
-    f.write(r.text)
+links = set()
 
-print("Kaydedildi.")
+for a in soup.find_all("a", href=True):
+    href = a["href"]
+
+    if "/calendar/2025-26/" in href:
+        links.add(href)
+
+print("\nBulunan yarış linkleri:\n")
+
+for link in sorted(links):
+    print(link)
