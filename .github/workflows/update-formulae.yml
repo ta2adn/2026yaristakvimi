@@ -1,41 +1,28 @@
-from __future__ import annotations
+name: Formula E Takvim Kontrolu
 
-import sys
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
 
-import requests
+permissions:
+  contents: write
 
+jobs:
+  formulae-check:
+    runs-on: ubuntu-latest
 
-FORMULA_E_URL = (
-    "https://www.fiaformulae.com/en/calendar/2025-26/r14-tokyo"
-)
+    steps:
+      - name: Depoyu indir
+        uses: actions/checkout@v4
 
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
 
-def main() -> int:
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 "
-            "MotorsportCalendarBot/1.0 "
-            "(GitHub Actions calendar updater)"
-        )
-    }
+      - name: Requests paketini kur
+        run: python -m pip install requests
 
-    response = requests.get(
-        FORMULA_E_URL,
-        headers=headers,
-        timeout=30,
-    )
-    response.raise_for_status()
-
-    print("Formula E kaynağına erişildi.")
-    print(f"HTTP durum kodu: {response.status_code}")
-    print(f"İndirilen içerik: {len(response.content)} bayt")
-
-    return 0
-
-
-if __name__ == "__main__":
-    try:
-        raise SystemExit(main())
-    except requests.RequestException as exc:
-        print(f"Kaynak okunamadı: {exc}", file=sys.stderr)
-        raise SystemExit(1)
+      - name: Formula E kaynagini kontrol et
+        run: python scripts/update_formulae.py
